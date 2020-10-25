@@ -4,7 +4,7 @@
 [Function]
 1. When Application ends due to an unexpected error, the log is sent by registered email.
 
-2. E-mail the error that was caught in the catch of the try-catch syntax.
+2. Only Gmail accounts are available to send</br>(it doesn't matter what email accounts you receive).
 
 3. When communication fails, such as when there is no internet connection, the log can be saved in Shared Preferences, and the developer can try to send an email at the desired timing.
 
