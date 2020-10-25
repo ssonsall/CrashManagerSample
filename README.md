@@ -11,7 +11,7 @@
 [Constraints]
 1. The account to send the email is Gmail (any receiving account)
 
-## Installaion
+## Installation
 ```implementeation```
 
 ## How to use
