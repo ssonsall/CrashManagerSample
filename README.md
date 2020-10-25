@@ -1,3 +1,5 @@
+## This is Sample App Repo
+
 ## Description
 [Function]
 1. When Application ends due to an unexpected error, the log is sent by registered email.
